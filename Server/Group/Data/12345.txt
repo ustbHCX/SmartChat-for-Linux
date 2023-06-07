@@ -1,0 +1,5 @@
+id:12345
+admin:10000
+member:10000
+banned:
+application:

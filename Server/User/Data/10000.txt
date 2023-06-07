@@ -1,0 +1,6 @@
+id:10000
+password:123456
+nick:admin
+friend:10086
+group:12345
+application:10001
